@@ -1,4 +1,4 @@
-<h1>I am an engineering student with a strong interest in cybersecurity and system security. I focus on building a solid foundation in Linux, networking, and secure system administration while continuously improving my technical and problem-solving skills.</h1>
+<p>I am an engineering student with a strong interest in cybersecurity and system security. I focus on building a solid foundation in Linux, networking, and secure system administration while continuously improving my technical and problem-solving skills.</p>
 <p>A passionate Dev </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
